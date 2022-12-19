@@ -4,6 +4,6 @@ permalink: "/Notes/"
 layout: page
 ---
 
-## FUCK[aaa]
+## [FUCK][aaa]
 
 [aaa]:/Geometry_II_Final_Project.pdf
