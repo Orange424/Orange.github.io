@@ -4,6 +4,6 @@ permalink: "/Notes/"
 layout: page
 ---
 
-## FUCK
+## 亂放的
 
-[你好](/Geometry_II_Final_Project.pdf)
+[Algebraic Geometry Notes](/Algebraic_Geometry ver.6:5.pdf)
