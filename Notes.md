@@ -6,4 +6,4 @@ layout: page
 
 ## [FUCK][aaa]
 
-[aaa]:/Geometry_II_Final_Project.pdf
+[aaa](/Geometry_II_Final_Project.pdf)
